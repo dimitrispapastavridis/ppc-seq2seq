@@ -1,6 +1,6 @@
 # README
 
-## Here you can find our Presentation on YouTube. [Click Here](https://www.youtube.com/watch?v=V9rFwTO73Ak)
+## View our presentation on YouTube. [Click Here](https://www.youtube.com/watch?v=V9rFwTO73Ak)
 
 ## Data Collection
 
