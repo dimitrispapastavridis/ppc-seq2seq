@@ -1,5 +1,7 @@
 # README
 
+## Here you can find our Presentation on YouTube. [Click here]([https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/](https://youtu.be/V9rFwTO73Ak))
+
 ## Data Collection
 
 ### Open EDA Jupyter
