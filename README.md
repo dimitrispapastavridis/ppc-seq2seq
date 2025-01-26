@@ -1,6 +1,6 @@
 # README
 
-## Here you can find our Presentation on YouTube. [Click here]([https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/](https://youtu.be/V9rFwTO73Ak))
+## Here you can find our Presentation on YouTube. [Click Here](https://www.youtube.com/watch?v=V9rFwTO73Ak)
 
 ## Data Collection
 
